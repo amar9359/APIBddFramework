@@ -12,6 +12,6 @@ import io.cucumber.testng.CucumberOptions;
 //		dryRun = true
 		)
 
-public class Runner extends AbstractTestNGCucumberTests {
+public class TestRunner extends AbstractTestNGCucumberTests {
 
 }
